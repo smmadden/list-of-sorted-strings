@@ -1,4 +1,5 @@
 # Doubly Linked List of Sorted Strings
+###### _Completed Dec. 14, 2019_
 
 For this project I wrote a doubly linked list program that implements Insert, Member, Delete, and Free_list, stores a list of strings, and stores the strings in increasing alphabetical order.
 
